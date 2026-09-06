@@ -1,0 +1,31 @@
+asset_id,name,asset_type,service_area,lat,lon,customers_served,criticality_flag,criticality_multiplier,age_years,last_inspection_year,prior_outage_count,vegetation_density,flood_zone,distance_to_coast_km
+SGW-001,Big Bend Coastal Transmission Line 1,Transmission Line,Big Bend Coastal,29.8628,-83.7149,2940,False,1.0,6,2024,2,0.35,True,11
+SGW-002,Big Bend Coastal Transmission Line 2,Transmission Line,Big Bend Coastal,30.2529,-83.7658,1295,False,1.0,22,2023,3,0.53,False,1
+SGW-003,Big Bend Coastal Substation 3,Substation,Big Bend Coastal,30.1158,-83.7757,10879,False,1.0,34,2021,1,0.33,True,10
+SGW-004,Big Bend Coastal Substation 4,Substation,Big Bend Coastal,30.1478,-83.9698,12461,False,1.0,21,2023,1,0.45,True,10
+SGW-005,Big Bend Coastal Transmission Line 5,Transmission Line,Big Bend Coastal,29.9925,-83.9347,2490,False,1.0,24,2024,0,0.22,True,1
+SGW-006,Valdosta Corridor Transmission Line 6,Transmission Line,Valdosta Corridor,30.9355,-83.152,1563,False,1.0,37,2024,1,0.42,False,131
+SGW-007,Valdosta Corridor Substation 7,Substation,Valdosta Corridor,30.8556,-83.1557,9241,False,1.0,8,2022,1,0.4,True,144
+SGW-008,Valdosta Corridor Substation 8,Substation,Valdosta Corridor,30.8322,-83.1935,11052,True,2.5,24,2023,0,0.44,False,127
+SGW-009,Valdosta Corridor Transmission Line 9,Transmission Line,Valdosta Corridor,30.902,-83.443,1430,False,1.0,22,2021,0,0.31,False,123
+SGW-010,Valdosta Corridor Substation 10,Substation,Valdosta Corridor,30.8728,-83.3869,13135,True,2.5,22,2022,2,0.3,False,153
+SGW-011,Macon Area Substation 11,Substation,Macon Area,32.9042,-83.3666,9639,False,1.0,10,2024,2,0.5,True,230
+SGW-012,Macon Area Transmission Line 12,Transmission Line,Macon Area,32.9909,-83.2706,2217,False,1.0,31,2021,1,0.31,True,241
+SGW-013,Macon Area Substation 13,Substation,Macon Area,32.6536,-83.9314,10739,True,2.5,31,2023,2,0.33,False,233
+SGW-014,Macon Area Substation 14,Substation,Macon Area,32.6922,-83.4791,6122,False,1.0,44,2022,2,0.33,False,241
+SGW-015,Macon Area Transmission Line 15,Transmission Line,Macon Area,32.8688,-83.6514,2316,False,1.0,7,2024,1,0.57,True,241
+SGW-016,Augusta Area Transmission Line 16,Transmission Line,Augusta Area,33.2237,-81.7128,3408,False,1.0,5,2024,0,0.72,False,262
+SGW-017,Augusta Area Transmission Line 17,Transmission Line,Augusta Area,33.399,-82.0109,1003,True,2.5,21,2024,0,0.51,False,270
+SGW-018,Augusta Area Transmission Line 18,Transmission Line,Augusta Area,33.2506,-82.1681,3314,False,1.0,40,2022,0,0.57,False,280
+SGW-019,Augusta Area Transmission Line 19,Transmission Line,Augusta Area,33.7107,-82.0378,3736,False,1.0,44,2024,2,0.51,False,288
+SGW-020,Augusta Area Transmission Line 20,Transmission Line,Augusta Area,33.4183,-82.2734,3246,False,1.0,30,2024,0,0.39,False,269
+SGW-021,Upstate SC / Western NC Transmission Line 21,Transmission Line,Upstate SC / Western NC,34.8047,-82.4578,2781,False,1.0,7,2023,0,0.46,False,359
+SGW-022,Upstate SC / Western NC Substation 22,Substation,Upstate SC / Western NC,34.8337,-82.2385,12720,False,1.0,11,2024,0,0.77,True,329
+SGW-023,Upstate SC / Western NC Substation 23,Substation,Upstate SC / Western NC,34.8571,-82.3479,4270,False,1.0,11,2024,1,0.67,False,330
+SGW-024,Upstate SC / Western NC Transmission Line 24,Transmission Line,Upstate SC / Western NC,34.957,-82.3175,1372,True,2.5,12,2023,0,0.48,False,334
+SGW-025,Upstate SC / Western NC Substation 25,Substation,Upstate SC / Western NC,35.0669,-82.2182,14734,False,1.0,13,2021,0,0.61,False,305
+SGW-026,Asheville Inland Substation 26,Substation,Asheville Inland,35.6318,-82.4967,3816,False,1.0,5,2024,0,1.0,True,397
+SGW-027,Asheville Inland Substation 27,Substation,Asheville Inland,35.4105,-82.6102,14335,False,1.0,37,2022,4,0.76,True,389
+SGW-028,Asheville Inland Transmission Line 28,Transmission Line,Asheville Inland,35.5657,-82.3392,832,False,1.0,30,2023,1,0.57,False,406
+SGW-029,Asheville Inland Transmission Line 29,Transmission Line,Asheville Inland,35.4175,-82.5441,2565,False,1.0,34,2024,1,0.92,False,403
+SGW-030,Asheville Inland Transmission Line 30,Transmission Line,Asheville Inland,35.6745,-82.2591,2598,False,1.0,13,2023,0,0.97,False,395
