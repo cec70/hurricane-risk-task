@@ -142,7 +142,7 @@ with tab1:
     st.subheader("Track detail")
     st.dataframe(
         known_track[["datetime", "label", "category", "max_wind_mph"]],
-        hide_index=True, width='stretch',
+        hide_index=True, use_container_width=True,
     )
 
 # ---------------------------------------------------------------------------
@@ -180,7 +180,7 @@ with tab2:
             "probability_of_failure": "{:.1%}",
             "composite_risk": "{:.3f}",
         }),
-        hide_index=True, width='stretch',
+        hide_index=True, use_container_width=True,
     )
 
     st.subheader("Explain a specific asset's score")
